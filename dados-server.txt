@@ -1,0 +1,4 @@
+$servidor = "localhost";
+$usuario = "webmaio1_tiago";
+$senha = "senac*123";
+$db = "webmaio1_tiago";
